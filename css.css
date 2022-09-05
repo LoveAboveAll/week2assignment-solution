@@ -11,7 +11,7 @@ h1 {
     text-align: center;
     margin-top: 6%;
     margin-bottom: 6%; 
-    text-decoration: underline;
+   
   }
 .holder {  
     position: relative;
@@ -20,7 +20,7 @@ h1 {
     padding: 12px;
     padding-top: 45px;
     font-size: 100%;
-    border:4px solid rgb(251, 14, 14);
+    border:1px black;
     margin-left: 20px;
     margin-bottom: 20px;
     margin-right: 20px;
@@ -40,14 +40,17 @@ h2 {
 .beef {
     background-color:#63f6f6;         
     color: white;
+    border:1px black;
     }
 .sushi {
     background-color:#ff335f;
-    color: white;  
+    color: white; 
+    border:1px black;
    }
 .chicken {
     background-color:#e3dde0;
-    color: rgb(244, 4, 4);   
+    color: rgb(244, 4, 4); 
+    border:1px black;
    }
 
 @media (min-width: 992px) {  
